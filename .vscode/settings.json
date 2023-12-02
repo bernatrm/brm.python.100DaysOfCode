@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "python.terminal.focusAfterLaunch": true,
+    "python.terminal.launchArgs": [],
+    "vsintellicode.features.python.deepLearning": "enabled"
+}
